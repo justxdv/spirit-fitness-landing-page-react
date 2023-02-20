@@ -63,21 +63,21 @@
     }
     .right-j {
         position: absolute;
-        top: 13rem;
-        right: 1rem;
+        top: 9.5rem;
+        right: 1.5rem;
         bottom: 0;
         width: max-content;
     }
     .email-container {
-        width: 260px;
+        width: 22rem;
         padding: 4px;
         gap: 10px;
     }
     .email-container > input {
-        width: 12rem;
+        width: 15.5rem;
     }
     .btn-j {
-        width: 80px;
+        width: fit-content;
         padding: 1;
     }
 }
